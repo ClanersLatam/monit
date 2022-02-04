@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 406,
-    "timeWeek": 406,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "time": 482,
+    "timeDay": 482,
+    "timeWeek": 482,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "coppel-digital",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 79,
     "timeDay": 79,
     "timeWeek": 79,
@@ -43,18 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
     "status": "up",
-    "uptime": "1.29%",
-    "uptimeDay": "1.29%",
-    "uptimeWeek": "1.29%",
-    "uptimeMonth": "1.29%",
-    "uptimeYear": "1.29%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 326,
     "timeDay": 326,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {
-      "2022-02-04": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
