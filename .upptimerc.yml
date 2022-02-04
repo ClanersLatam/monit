@@ -7,7 +7,7 @@ sites:
     url: www.claners.com
   - name: API
     url: api.claners.com
-  . name: Coppel
+  - name: Coppel
     url: coppeldigital.com
 
 status-website:
