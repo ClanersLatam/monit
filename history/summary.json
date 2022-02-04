@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 486,
-    "timeWeek": 486,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 444,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,38 @@
     "icon": "https://favicons.githubusercontent.com/www.coppeldigital.com",
     "slug": "coppel-digital",
     "status": "down",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
-    "time": 75,
-    "timeDay": 75,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 73,
+    "timeDay": 73,
+    "timeWeek": 73,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-02-04": 3
+      "2022-02-04": 38
+    }
+  },
+  {
+    "name": "API",
+    "url": "https://www.api.claners.com",
+    "icon": "https://favicons.githubusercontent.com/www.api.claners.com",
+    "slug": "api",
+    "status": "down",
+    "uptime": "24.66%",
+    "uptimeDay": "24.66%",
+    "uptimeWeek": "24.66%",
+    "uptimeMonth": "24.66%",
+    "uptimeYear": "24.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-04": 0
     }
   }
 ]
