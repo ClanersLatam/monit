@@ -1,7 +1,7 @@
 [
   {
     "name": "Claners",
-    "url": "claners.com",
+    "url": "www.claners.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "claners",
     "status": "up",
@@ -10,49 +10,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 482,
-    "timeWeek": 482,
-    "timeMonth": 482,
-    "timeYear": 482,
+    "time": 525,
+    "timeDay": 525,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   },
   {
     "name": "CoppelDigital",
-    "url": "coppeldigital.com",
+    "url": "www.coppeldigital.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "coppel-digital",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 82,
+    "timeDay": 82,
+    "timeWeek": 82,
+    "timeMonth": 82,
+    "timeYear": 82,
     "dailyMinutesDown": {
-      "2022-02-04": 41
+      "2022-02-04": 46
     }
   },
   {
     "name": "API",
-    "url": "api.claners.com",
+    "url": "www.api.claners.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 326,
     "timeDay": 326,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-04": 0
+    }
   }
 ]
