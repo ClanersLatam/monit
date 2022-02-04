@@ -4,16 +4,16 @@ repo: monit # The name of this repository
 
 sites:
   - name: Claners
-    url: claners.com
+    url: www.claners.com
   - name: CoppelDigital
-    url: coppeldigital.com
+    url: www.coppeldigital.com
   - name: API
-    url: api.claners.com
+    url: www.api.claners.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://clanersloera.github.io/monit/
+  cname: clanersloera.github.io/monit/
   baseUrl: /monit
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: monit
