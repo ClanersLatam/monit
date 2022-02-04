@@ -4,11 +4,11 @@ repo: monit # The name of this repository
 
 sites:
   - name: Claners
-    url: https://www.claners.com
+    url: claners.com
   - name: CoppelDigital
-    url: https://www.coppeldigital.com
+    url: coppeldigital.com
   - name: API
-    url: https://www.api.claners.com
+    url: api.claners.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
