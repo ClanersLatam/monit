@@ -7,8 +7,8 @@ sites:
     url: www.claners.com
   - name: API
     url: api.claners.com
-  - name: Coppel www
-    url: www.coppeldigital.com
+  - name: Coppel
+    url: https://www.coppeldigital.com/catalogo/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
